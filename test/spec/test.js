@@ -14,9 +14,9 @@
         expect(bodyoffset.left).to.equal(0);
       });
       it('should calculate offsets nicely', function() {
-        var mochaoff = this.findOffset(document.querySelector('#mocha'));
-        expect(mochaoff.top).to.equal(60);
-        expect(mochaoff.left).to.equal(50);
+        var mochaoff = this.findOffset(document.querySelector('#testArea'));
+        expect(mochaoff.top).to.equal(120);
+        expect(mochaoff.left).to.equal(120);
       });
 
 
