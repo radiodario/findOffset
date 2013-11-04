@@ -1,0 +1,14 @@
+{
+  "name": "findOffset",
+  "repo": "radiodario/findOffset",
+  "description": "A quick and dirty way to get the top and left offset of an element without installing DerpQuery",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
